@@ -108,7 +108,7 @@ border-spacing: 10px;
   animation: 2s hyx linear ;
   animation-fill-mode:forwards;
 }
-@keyframes hyx{
+@keyframes lyj{
   from{left:-220px;}
   10%{left:-200px;}
   20%{left:-180px;}
